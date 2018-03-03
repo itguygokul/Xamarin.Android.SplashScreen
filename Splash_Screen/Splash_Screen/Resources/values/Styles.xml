@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<style name="Splash_Theme.Main" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+		<item name="colorAccent">@color/colorAccent</item>
+		<item name="android:windowBackground">@color/colorPrimary</item>
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowFullscreen">true</item>
+		<item name="android:navigationBarColor">@android:color/transparent</item>
+	</style>
+
+    <style name="Splash_Theme.pages" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
